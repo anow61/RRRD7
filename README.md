@@ -91,7 +91,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 # Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON/RRRD7)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/t0j_3/RRRD7)
 
 # String
 
